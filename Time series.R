@@ -1,3 +1,7 @@
+## This script was designed to achieve modeling the temperal dynamics among the three bacteria
+## Author: Hui Lin; Donglin Wang
+## Date: Nov. 2023
+
 library(deSolve)
 library(ggplot2)
 library(phaseR)
